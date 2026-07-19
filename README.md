@@ -13,9 +13,13 @@ Built entirely on **Make.com free tier**.
 
 ## Build Steps
 **Step 1**: Google Sheets Trigger + Groq Module.
+
 **Step 2**: Groq API Connection.
+
 **Step 3**: System Prompt (Agent Persona). 
+
 **Step 4**: Dynamic User Message Mapping.
+
 **Status**: Trigger & AI step working → Execution log shows successful runs.
 
 ## Key Technologies
