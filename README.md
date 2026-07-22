@@ -1,5 +1,5 @@
 # No-Code AI Automation: Google Form → Groq AI (Make.com)
-**Build Log — Connecting a real workflow with Google Forms, Google Sheets, Groq (Llama-3.3-70B), and Make.com.**
+**Build Log: Connecting a real workflow with Google Forms, Google Sheets, Groq (Llama-3.3-70B), and Make.com.**
 
 **By:** Sumaira Safeer
 
