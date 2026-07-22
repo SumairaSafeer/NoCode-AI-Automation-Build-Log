@@ -36,4 +36,8 @@ Built entirely on **Make.com free tier**.
 
 ---
 
-Built as part of no-code AI automation practice.
+
+## Author
+**Sumaira Safeer**  
+Computer Engineer 
+[LinkedIn](https://www.linkedin.com/in/sumaira-safeer-948804418/)
